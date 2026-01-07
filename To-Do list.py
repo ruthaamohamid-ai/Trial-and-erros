@@ -55,7 +55,7 @@ while True:
                 print("Please enter a number.")
 
     elif choice == "4":
-        print("Goodbye 👋")
+        print("Goodbye ")
         break
 
     else:
